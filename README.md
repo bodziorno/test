@@ -1,4 +1,3 @@
 # test
 testowe repo
-# Paragon z warzywniaka
-benickib
+nene nihuja, bodziorno tu będzie
