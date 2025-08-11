@@ -1,3 +1,5 @@
 # test
 testowe repo
-nene nihuja, bodziorno tu będzie
+
+Nowe zmiany od REPO2 Feature zakupy
+
