@@ -1,5 +1,4 @@
 # test
 testowe repo
 
-# Paragon z warzywniaka
-benickib
+tak, to ma byc pull rrequest
