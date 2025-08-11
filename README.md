@@ -1,4 +1,4 @@
 # test
 testowe repo
 
-tak, to ma byc pull rrequest
+Nowe zmiany od REPO1 benickib
