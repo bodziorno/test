@@ -1,4 +1,3 @@
 # test
 testowe repo
-
-qo, new more important data 
+nene nihuja, bodziorno tu będzie
