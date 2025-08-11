@@ -1,4 +1,4 @@
 # test
 testowe repo
 
-new changes from bodziorno
+nene nihuja, bodziorno tu będzie
